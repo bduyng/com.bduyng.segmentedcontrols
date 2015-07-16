@@ -1,0 +1,19 @@
+<Alloy>
+	<NavigationWindow>
+		<Window class="container" title="ACTIVITY">
+			<ScrollableView id="scrollableView">
+				<View id="view1">
+					<Label class="viewTitle">Following View</Label>
+				</View>
+				<View id="view2">
+					<Label class="viewTitle">You View</Label>
+				</View>
+			</ScrollableView>
+			<!-- MUST PUT SEGMENTED BAR IN FRONT OF SCROLLABLE VIEW TO SEE SHADOW EFFECT -->
+			<View id="segmentedBar" class="segmentedBar">
+				<Label id="following" class="segmentedBarItemTitle">FOLLOWING</Label>
+				<Label id="you" class="segmentedBarItemTitle">YOU</Label>
+			</View>
+		</Window>
+	</NavigationWindow>
+</Alloy>
