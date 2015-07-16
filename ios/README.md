@@ -7,7 +7,7 @@ The module is licensed under the MIT license.
 
 ### Get the module
 
-**Find the newest version in the dist folder**
+**Find the newest version in the [dist](https://github.com/bduyng/com.bduyng.segmentedcontrols/tree/master/ios/dist) folder**
 
 ## Referencing the module in your Ti mobile application
 
@@ -20,7 +20,7 @@ Simply add the following lines to your `tiapp.xml` file:
 
 ## Reference
 
-Please check [Test Application]() to understand how to use this module properly.
+Please check [Test Application](https://github.com/bduyng/com.bduyng.segmentedcontrols/tree/master/ios/test) to understand how to use this module properly.
 
 ## Changelog
 * v1.0.0
