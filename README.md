@@ -8,7 +8,7 @@ The module is licensed under the MIT license.
 
 ### Demo
 
-[![IMAGE ALT TEXT HERE](https://github.com/bduyng/com.bduyng.segmentedcontrols/blob/master/demo.gif)
+[!IMAGE ALT TEXT HERE](https://github.com/bduyng/com.bduyng.segmentedcontrols/blob/master/demo.gif)
 
 ## Quick Start
 
