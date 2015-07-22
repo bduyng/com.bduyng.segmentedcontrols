@@ -1,0 +1,38 @@
+{
+  "version": "1.0.0",
+  "description": "The Bduyng Segmented Controls Bar module extends the Appcelerator Titanium Mobile framework(UIScrollableView) to make segmented controls bar like Instagram application.",
+  "author": "Duy Bao Nguyen",
+  "license": "MIT",
+  "name": "com.bduyng.segmentedcontrols",
+  "appc-npm": {
+    "target": {
+      "titanium": "/",
+      "alloy": "/"
+    },
+    "unzip": [
+      "ios/dist/com.bduyng.segmentedcontrols-iphone-1.0.0.zip"
+    ]
+  },
+  "files": [
+    "appc-npm",
+    "ios/dist/com.bduyng.segmentedcontrols-iphone-1.0.0.zip"
+  ],
+  "scripts": {
+    "postinstall": "node ./appc-npm"
+  },
+  "keywords": [
+    "appcelerator",
+    "appc-npm",
+    "ti-module",
+    "titanium",
+    "alloy"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bduyng/com.bduyng.segmentedcontrols"
+  },
+  "homepage": "https://github.com/bduyng/com.bduyng.segmentedcontrols",
+  "bugs": {
+    "url": "https://github.com/bduyng/com.bduyng.segmentedcontrols/issues"
+  }
+}
