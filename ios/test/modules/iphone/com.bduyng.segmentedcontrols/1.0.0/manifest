@@ -5,10 +5,10 @@
 version: 1.0.0
 apiversion: 2
 architectures: armv7 arm64 i386 x86_64
-description: com.bduyng.segmentedcontrols
-author: Your Name
-license: Specify your license
-copyright: Copyright (c) 2015 by Your Company
+description: The Bduyng Segmented Controls Bar module extends the Appcelerator Titanium Mobile framework(UIScrollableView) to make segmented controls bar like Instagram application.
+author: Duy Bao Nguyen
+license: MIT
+copyright: Copyright (c) 2015 by BDUYNG
 
 # these should not be edited
 name: com.bduyng.segmentedcontrols

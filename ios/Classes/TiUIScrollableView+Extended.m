@@ -74,8 +74,13 @@ const int CLONED_HORIZONTAL_SCROLL_INDICATOR_TAG = 99;
         float contentOffsetX = [TiUtils intValue:arg] * self.scrollview.bounds.size.width;
         float x = self.scrollview.scrollIndicatorInsets.left + 3;
         if (contentOffsetX != 0) {
-            x += contentOffsetX + clonedHorizontalIndicator.frame.size.width;
+            x += contentOffsetX + [TiUtils intValue:arg] * clonedHorizontalIndicator.frame.size.width;
         }
+        NSLog(@"%f", x);
+        NSLog(@"%f", scrollview.scrollIndicatorInsets.left);
+        NSLog(@"%f", scrollview.scrollIndicatorInsets.right);
+        NSLog(@"%f", clonedHorizontalIndicator.frame.size.width);
+        NSLog(@"%f", clonedHorizontalIndicator.frame.origin.x);
         
         [clonedHorizontalIndicator setFrame:CGRectMake(x, clonedHorizontalIndicator.frame.origin.y, clonedHorizontalIndicator.frame.size.width, clonedHorizontalIndicator.frame.size.height)];
     }
