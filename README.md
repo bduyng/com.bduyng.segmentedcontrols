@@ -1,5 +1,5 @@
 # Bduyng Segmented Controls Bar Module
-<!-- [![gitTio](http://gitt.io/badge.svg)](http://gitt.io/component/dk.napp.drawer) -->
+[![gitTio](http://gitt.io/badge.svg)](http://gitt.io/component/com.bduyng.segmentedcontrols)
 
 ## Description
 
@@ -18,13 +18,13 @@ Download the latest distribution ZIP-file and consult the [Titanium Documentatio
 ### Use it
 Please check [Test Application](https://github.com/bduyng/com.bduyng.segmentedcontrols/tree/master/ios/test) to understand how to use this module properly.
 
-<!-- Or simply use the [gitTio CLI](http://gitt.io/cli) [![gitTio](http://gitt.io/badge.svg)](http://gitt.io/component/dk.napp.drawer)
+Or simply use the [gitTio CLI](http://gitt.io/cli) [![gitTio](http://gitt.io/badge.svg)](http://gitt.io/component/com.bduyng.segmentedcontrols)
 
-`$ gittio install dk.napp.drawer`
+`$ gittio install com.bduyng.segmentedcontrols`
 
-Or NPM [![NPM](https://img.shields.io/npm/v/ti-module-dk.napp.drawer.svg?style=flat-square)](https://www.npmjs.com/package/ti-module-dk.napp.drawer)
+Or NPM [![NPM](https://img.shields.io/npm/v/com.bduyng.segmentedcontrols.svg?style=flat-square)](https://www.npmjs.com/package/com.bduyng.segmentedcontrols)
 
-`$ npm i --save ti-module-dk.napp.drawer` -->
+`$ npm i --save tcom.bduyng.segmentedcontrols`
 
 ## Community Driven
 
@@ -33,10 +33,10 @@ I encourage everyone to send Pull Requests - keeping this module flying with new
 
 ## Author
 
-**Duy Bao Nguyen**  
-<!-- web: http://www.napp.dk   -->
-email: bduyng@gmail.com  
-twitter: @bduyng  
+**Duy Bao Nguyen**
+web: https://github.com/bduyng
+email: bduyng@gmail.com
+twitter: @bduyng
 
 
 ## License

@@ -1,36 +1,40 @@
 # Bduyng Segmented Controls Bar Module
+[![gitTio](http://gitt.io/badge.svg)](http://gitt.io/component/com.bduyng.segmentedcontrols)
 
 ## Description
 
 The Bduyng Segmented Controls Bar module extends the Appcelerator Titanium Mobile framework(UIScrollableView) to make segmented controls bar like Instagram application.
 The module is licensed under the MIT license.
 
-### Get the module
+### Demo
 
-**Find the newest version in the [dist](https://github.com/bduyng/com.bduyng.segmentedcontrols/tree/master/ios/dist) folder**
+![demo](https://github.com/bduyng/com.bduyng.segmentedcontrols/blob/master/demo.gif?raw=true)
 
-## Referencing the module in your Ti mobile application
+## Quick Start
 
-Simply add the following lines to your `tiapp.xml` file:
+### Get it
+Download the latest distribution ZIP-file and consult the [Titanium Documentation](http://docs.appcelerator.com/titanium/latest/#!/guide/Using_a_Module) on how install it
 
-    <modules>
-        <module platform="iphone">dk.napp.drawer</module>
-    </modules>
-
-
-## Reference
-
+### Use it
 Please check [Test Application](https://github.com/bduyng/com.bduyng.segmentedcontrols/tree/master/ios/test) to understand how to use this module properly.
 
-## Changelog
-* v1.0.0
-  * init
+Or simply use the [gitTio CLI](http://gitt.io/cli) [![gitTio](http://gitt.io/badge.svg)](http://gitt.io/component/com.bduyng.segmentedcontrols)
+
+`$ gittio install com.bduyng.segmentedcontrols`
+
+Or NPM [![NPM](https://img.shields.io/npm/v/com.bduyng.segmentedcontrols.svg?style=flat-square)](https://www.npmjs.com/package/com.bduyng.segmentedcontrols)
+
+`$ npm i --save tcom.bduyng.segmentedcontrols`
+
+## Community Driven
+
+I encourage everyone to send Pull Requests - keeping this module flying with new features.
 
 
 ## Author
 
 **Duy Bao Nguyen**
-<!-- web: http://www.napp.dk -->
+web: https://github.com/bduyng
 email: bduyng@gmail.com
 twitter: @bduyng
 
