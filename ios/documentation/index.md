@@ -20,7 +20,7 @@ Simply add the following lines to your `tiapp.xml` file:
 
 ## Reference
 
-Please check [Test Application](https://github.com/bduyng/com.bduyng.segmentedcontrols/tree/master/ios/test) to understand how to use this module properly.
+Please check [Test Application](https://github.com/bduyng/com.bduyng.segmentedcontrols/tree/master/ios/testing) to understand how to use this module properly.
 
 ## Changelog
 * v1.0.0

@@ -20,7 +20,7 @@ The module is licensed under the MIT license.
 Download the latest distribution ZIP-file and consult the [Titanium Documentation](http://docs.appcelerator.com/titanium/latest/#!/guide/Using_a_Module) on how install it
 
 ### Use it
-Please check [Test Application](https://github.com/bduyng/com.bduyng.segmentedcontrols/tree/master/ios/test) to understand how to use this module properly.
+Please check [Test Application](https://github.com/bduyng/com.bduyng.segmentedcontrols/tree/master/ios/testing) to understand how to use this module properly.
 
 Or simply use the [gitTio CLI](http://gitt.io/cli) [![gitTio](http://gitt.io/badge.svg)](http://gitt.io/component/com.bduyng.segmentedcontrols)
 
