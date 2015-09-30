@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0.0
+apiversion: 2
+architectures: armv7 arm64 i386 x86_64
+description: The Bduyng Segmented Controls Bar module extends the Appcelerator Titanium Mobile framework(UIScrollableView) to make segmented controls bar like Instagram application.
+author: Duy Bao Nguyen
+license: MIT
+copyright: Copyright (c) 2015 by BDUYNG
+
+# these should not be edited
+name: com.bduyng.segmentedcontrols
+moduleid: com.bduyng.segmentedcontrols
+guid: be656c61-12fb-4324-80ab-e19bccb29950
+platform: iphone
+minsdk: 4.1.0.GA

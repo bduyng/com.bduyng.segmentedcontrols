@@ -1,0 +1,44 @@
+'.container': {
+	backgroundColor:'white',
+	barColor : "#125688",
+	titleAttributes : {
+		color:'white',
+		font: {
+			fontSize:'14sp',
+			fontWeight : 'bold'
+		},
+	}
+}
+'#scrollableView': {
+	top : 40,
+	showPagingControl : false,
+	backgroundColor : '#F8F8F8'
+}
+'.segmentedBar': {
+	top : 0,
+	height : 40,
+	backgroundColor : 'white'
+}
+'.viewTitle' : {
+	color : "#111111",
+	font : {
+		fontSize : '14sp',
+		fontWeight : 'bold'
+	}
+}
+'.segmentedBarItemTitle': {
+	color : "#111111",
+	font : {
+		fontSize : '10sp',
+		fontWeight : 'bold'
+	}
+}
+'#following' : {
+	color : "#125688"
+}
+'#view1': {
+	backgroundColor : '#F8F8F8'
+}
+'#view2': {
+	backgroundColor : '#F8F8F8'
+}
