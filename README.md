@@ -4,9 +4,13 @@
 ## Description
 
 The Bduyng Segmented Controls Bar module extends the Appcelerator Titanium Mobile framework(UIScrollableView) to make segmented controls bar like Instagram application.
+NOTE: This is a native module, which use custom the default scrollbar to make it become a highlighter. So it will provide THE BEST PERFORMANCE.
 The module is licensed under the MIT license.
 
 ### Demo
+
+
+![explain](https://github.com/bduyng/com.bduyng.segmentedcontrols/blob/master/demo.png?raw=true)
 
 ![demo](https://github.com/bduyng/com.bduyng.segmentedcontrols/blob/master/demo.gif?raw=true)
 
